@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a3c56ee2f7f1eb85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture Notes"
+            }
+          },
+          {
             "id": "b122a88c10a2bdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectivity and Ethical Response.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objectivity and Ethical Response"
+            }
+          },
+          {
+            "id": "d22d1277711011cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +49,8 @@
               "title": "Ethics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2f85e64c7db3b3e7",
@@ -165,9 +195,12 @@
   },
   "active": "b122a88c10a2bdf1",
   "lastOpenFiles": [
-    "Ethics.md",
-    "Untitled.canvas",
     "Lecture Notes.md",
+    "Objectivity and Ethical Response.md",
+    "Ethics.md",
+    "Slides/Lecture Jan 16.pdf",
+    "Slides/Lecture Jan 14.pdf",
+    "Untitled.canvas",
     "Untitled",
     "Slides",
     "New folder",

@@ -37,6 +37,18 @@
       "title": "Example",
       "injectColor": true,
       "noTitle": false
+    },
+    "quiz": {
+      "type": "quiz",
+      "color": "107, 41, 41",
+      "icon": {
+        "name": "lucide-hexagon",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Quiz",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
