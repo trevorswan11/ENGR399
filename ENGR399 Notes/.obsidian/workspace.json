@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "4d15527138cc1c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology, Natural Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technology, Natural Resources"
+            }
+          },
+          {
             "id": "d22d1277711011cb",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,10 +206,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b122a88c10a2bdf1",
+  "active": "4d15527138cc1c64",
   "lastOpenFiles": [
     "Lecture Notes.md",
     "Objectivity and Ethical Response.md",
+    "Technology, Natural Resources.md",
+    "2025-01-28.md",
     "Ethics.md",
     "Slides/Lecture Jan 16.pdf",
     "Slides/Lecture Jan 14.pdf",

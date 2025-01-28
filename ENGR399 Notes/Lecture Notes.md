@@ -1,2 +1,3 @@
 - **Lectures [[Lecture Jan 14.pdf|1]] & [[Lecture Jan 16.pdf|2]] - Introduction to Ethics**: [[Ethics]]
 - **Lecture [[Lecture Jan 21.pdf|3]] - Objectivity**: [[Objectivity and Ethical Response]]
+- Lecture 4 - Technology's Politics: [[Technology, Natural Resources]] 
