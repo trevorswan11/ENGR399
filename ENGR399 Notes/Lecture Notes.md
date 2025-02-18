@@ -2,4 +2,5 @@
 - **Lecture [[Lecture Jan 21.pdf|3]] - Objectivity**: [[Objectivity and Ethical Response]]
 - Lecture [[Lecture Jan 28.pdf|4]] - Technology's Politics: [[Technology, Natural Resources]] 
 - Lecture [[Lecture Feb 4.pdf|5]] - Organizational Strategies: [[Organizational Strategies and Failure]]
-- Lecture [Lecture Feb 11.pdf|6] - Safety Issues: [[Hazards and Safety Controls]]
+- Lecture [[Lecture Feb 11.pdf|6]] - Safety Issues: [[Hazards and Safety Controls]]
+- Lecture [[Lecture Feb 18|7]] - Intellectual Property: [[Intellectual Property]] 
