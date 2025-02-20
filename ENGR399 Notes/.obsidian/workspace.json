@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Intellectual Property"
             }
+          },
+          {
+            "id": "88b8f3bd3b32feea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "29d1b14d854b5da9",
+  "active": "88b8f3bd3b32feea",
   "lastOpenFiles": [
     "Intellectual Property.md",
     "Lecture Notes.md",
