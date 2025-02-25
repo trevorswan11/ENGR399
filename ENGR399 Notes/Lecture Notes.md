@@ -4,3 +4,4 @@
 - Lecture [[Lecture Feb 4.pdf|5]] - Organizational Strategies: [[Organizational Strategies and Failure]]
 - Lecture [[Lecture Feb 11.pdf|6]] - Safety Issues: [[Hazards and Safety Controls]]
 - Lecture [[Lecture Feb 18|7]] - Intellectual Property: [[Intellectual Property]] 
+- Lecture [[Lecture Feb 25|8]] - : Professional Ethics and Conflicts of Interest: [[Professional Codes of Ethics]]
