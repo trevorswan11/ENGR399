@@ -3,7 +3,7 @@
 - Lecture [[Lecture Jan 28.pdf|4]] - Technology's Politics: [[Technology, Natural Resources]] 
 - Lecture [[Lecture Feb 4.pdf|5]] - Organizational Strategies: [[Organizational Strategies and Failure]]
 - Lecture [[Lecture Feb 11.pdf|6]] - Safety Issues: [[Hazards and Safety Controls]]
-- Lecture [[Lecture Feb 18|7]] - Intellectual Property: [[Intellectual Property]] 
-- Lecture [[Lecture Feb 25|8]] - : Professional Ethics and Conflicts of Interest: [[Professional Codes of Ethics]]
-- Lecture [[Lecture Mar 4|9]] - : Patenting and Inventions: [[Patenting and Inventions]]
-- 
+- Lecture [[Lecture Feb 18.pdf|7]] - Intellectual Property: [[Intellectual Property]] 
+- Lecture [[Lecture Feb 25.pdf|8]] - Professional Ethics and Conflicts of Interest: [[Professional Codes of Ethics]]
+- Lecture [[Lecture Mar 4.pdf|9]] - Patenting and Inventions: [[Patenting and Inventions]]
+- Lecture [[Lecture Mar 18.pdf|10]] - Financial Fundamentals for Engineers: [[Financial Fundamentals]]
