@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes.md",
+                "file": "Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture Notes"
+              "title": "Ethics"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Fundamentals.md",
+                "file": "Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial Fundamentals"
+              "title": "Ethics"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "factual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2f85e64c7db3b3e7",
@@ -186,31 +186,31 @@
   },
   "active": "1f54f9f83777ff05",
   "lastOpenFiles": [
-    "Financial Fundamentals.md",
+    "Technology, Natural Resources.md",
+    "Ethics.md",
+    "Professional Codes of Ethics.md",
     "Lecture Notes.md",
+    "Slides/Lecture Jan 14.pdf",
+    "Slides/Lecture Jan 16.pdf",
+    "Patenting and Inventions.md",
+    "Organizational Strategies and Failure.md",
+    "Objectivity and Ethical Response.md",
+    "Intellectual Property.md",
+    "Hazards and Safety Controls.md",
+    "Financial Fundamentals.md",
+    "Slides/Lecture Feb 11.pdf",
+    "Slides/Lecture Mar 18.pdf",
     "Lecture Mar 4.md",
     "Slides/Lecture Mar 4.pdf",
     "Slides/Lecture Feb 25.pdf",
-    "Slides/Lecture Feb 11.pdf",
     "Slides/Lecture Feb 18.pdf",
-    "Patenting and Inventions.md",
-    "Intellectual Property.md",
-    "Hazards and Safety Controls.md",
-    "Technology, Natural Resources.md",
-    "Objectivity and Ethical Response.md",
-    "Organizational Strategies and Failure.md",
-    "Professional Codes of Ethics.md",
     "Hazards.md",
     "Slides/Lecture Jan 28.pdf",
-    "Ethics.md",
     "Lecture Feb 4.md",
     "Slides/Lecture Feb 4.pdf",
     "Slides/Lecture Jan 21.pdf",
     "2025-01-28.md",
-    "Slides/Lecture Jan 16.pdf",
-    "Slides/Lecture Jan 14.pdf",
     "Untitled.canvas",
-    "Untitled",
     "Welcome.md"
   ]
 }
