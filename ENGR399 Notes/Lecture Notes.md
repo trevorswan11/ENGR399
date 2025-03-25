@@ -7,3 +7,4 @@
 - Lecture [[Lecture Feb 25.pdf|8]] - Professional Ethics and Conflicts of Interest: [[Professional Codes of Ethics]]
 - Lecture [[Lecture Mar 4.pdf|9]] - Patenting and Inventions: [[Patenting and Inventions]]
 - Lecture [[Lecture Mar 18.pdf|10]] - Financial Fundamentals for Engineers: [[Financial Fundamentals]]
+- Lecture [[Lecture Mar 25.pdf||11]] - Environmental Policy: [[Environmental Policy and Pollution]]
