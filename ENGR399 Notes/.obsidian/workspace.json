@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "70aaf6ffc468e4ee",
+            "id": "320b22274a311efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environmental Policy and Pollution.md",
+                "file": "Innovation, Technology, and Art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environmental Policy and Pollution"
+              "title": "Innovation, Technology, and Art"
             }
           }
         ],
@@ -184,10 +184,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "70aaf6ffc468e4ee",
+  "active": "320b22274a311efd",
   "lastOpenFiles": [
-    "Environmental Policy and Pollution.md",
+    "Innovation, Technology, and Art.md",
     "Lecture Notes.md",
+    "Environmental Policy and Pollution.md",
     "Financial Fundamentals.md",
     "Ethics.md",
     "Technology, Natural Resources.md",

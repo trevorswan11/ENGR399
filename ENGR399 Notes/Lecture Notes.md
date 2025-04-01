@@ -8,3 +8,4 @@
 - Lecture [[Lecture Mar 4.pdf|9]] - Patenting and Inventions: [[Patenting and Inventions]]
 - Lecture [[Lecture Mar 18.pdf|10]] - Financial Fundamentals for Engineers: [[Financial Fundamentals]]
 - Lecture [[Lecture Mar 25.pdf||11]] - Environmental Policy: [[Environmental Policy and Pollution]]
+- Lecture [[Lecture Apr 1.pdf|12]] - Innovations: [[Innovation, Technology, and Art]]
