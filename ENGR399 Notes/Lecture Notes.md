@@ -9,3 +9,4 @@
 - Lecture [[Lecture Mar 18.pdf|10]] - Financial Fundamentals for Engineers: [[Financial Fundamentals]]
 - Lecture [[Lecture Mar 25.pdf||11]] - Environmental Policy: [[Environmental Policy and Pollution]]
 - Lecture [[Lecture Apr 1.pdf|12]] - Innovations: [[Innovation, Technology, and Art]]
+- Lecture [[Lecture Apr 8.pdf|13]] - Economics and AI [[Monopolies, Wages, and Education]]
