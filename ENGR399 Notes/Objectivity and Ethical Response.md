@@ -71,7 +71,7 @@ How I-290 was picked...
 
 
 > [!question] Displacement and Safety
-> How do you balance traffic safey and the displacement of peple from their homes? Can you quantify this in terms of crashes or fatalities vs. number of people displaced.
+> How do you balance traffic safety and the displacement of people from their homes? Can you quantify this in terms of crashes or fatalities vs. number of people displaced.
 > 
 > How might your answer change if you happend to live in one of the homes that will be demolished to build the highway? Do you think that people have a right not to be displaced, even if being displaced would save more lives?
 > 
